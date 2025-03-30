@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mGunqmWf+Ek=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ygor\\source\\repos\\Vênus Assist\\Vênus Assist\\Vênus Assist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ygor\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.3\\microsoft.win32.systemevents.9.0.3.nupkg.sha512",
+    "C:\\Users\\ygor\\.nuget\\packages\\system.drawing.common\\9.0.3\\system.drawing.common.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

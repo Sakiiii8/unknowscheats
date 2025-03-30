@@ -1,0 +1,25 @@
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\Vênus Assist_MarkupCompile.cache
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\Vênus Assist.g.resources
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\Vênus Assist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\Vênus Assist.AssemblyInfoInputs.cache
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\Vênus Assist.AssemblyInfo.cs
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\Vênus Assist.csproj.CoreCompileInputs.cache
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\bin\Debug\net8.0-windows\Vênus Assist.exe
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\bin\Debug\net8.0-windows\Vênus Assist.deps.json
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\bin\Debug\net8.0-windows\Vênus Assist.runtimeconfig.json
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\bin\Debug\net8.0-windows\Vênus Assist.dll
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\bin\Debug\net8.0-windows\Vênus Assist.pdb
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\Vênus Assist.csproj.AssemblyReference.cache
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\V_nus As.16CF5098.Up2Date
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\Vênus Assist.dll
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\refint\Vênus Assist.dll
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\Vênus Assist.pdb
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\Vênus Assist.genruntimeconfig.cache
+C:\Users\ygor\source\repos\Vênus Assist\Vênus Assist\obj\Debug\net8.0-windows\ref\Vênus Assist.dll

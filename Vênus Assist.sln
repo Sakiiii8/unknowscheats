@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vênus Assist", "Vênus Assist\Vênus Assist.csproj", "{9A12BFF5-0D91-4649-9671-BBC6346C22D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A12BFF5-0D91-4649-9671-BBC6346C22D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A12BFF5-0D91-4649-9671-BBC6346C22D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A12BFF5-0D91-4649-9671-BBC6346C22D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A12BFF5-0D91-4649-9671-BBC6346C22D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3255295-66CB-412D-94CF-945B845B180F}
+	EndGlobalSection
+EndGlobal
